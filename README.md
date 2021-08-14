@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  BOY-UBOT" /></a>
+<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://telegra.ph/file/1ad892850b7b1e2792171.jpg" width="420" height="411" alt="  BOY-UBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
