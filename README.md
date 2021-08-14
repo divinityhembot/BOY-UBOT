@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  BOY-UBOT" /></a>
+<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://giphy.com/gifs/qKePip325mH2U" width="320" height="211" alt="  BOY-UBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
@@ -16,7 +16,7 @@
 
 ## PEMILIK REPO
 * **Bangboy** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/Itsmebangboy)
+[<img src="https://giphy.com/gifs/monkey-swimming-12oyZr7VXoTn68">](https://t.me/Itsmebangboy)
 
   
   
