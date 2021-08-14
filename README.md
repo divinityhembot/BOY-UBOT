@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://giphy.com/gifs/qKePip325mH2U" width="320" height="211" alt="  BOY-UBOT" /></a>
+<a href="https://www.instagram.com/bangboynih?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  BOY-UBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
@@ -12,11 +12,11 @@
 
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
-<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
+<a href="https://t.me/Itsmebangboy"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
 * **Bangboy** 🦔
-[<img src="https://giphy.com/gifs/monkey-swimming-12oyZr7VXoTn68">](https://t.me/Itsmebangboy)
+[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/Itsmebangboy)
 
   
   
@@ -27,8 +27,8 @@
 
 ### JOIN DULU TOT!!:
 
-<a href="https://t.me/cecancogansinilah"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/MutualanParjamban"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/cecancogansinilah"><img src="https://img.shields.io/badge/Channel%20BOY%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MutualanParjamban"><img src="https://img.shields.io/badge/Join-MUTUALAN%20PARJAMBAN-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
@@ -52,7 +52,7 @@
 ##
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 ##
-<a href="https://heroku.com/deploy?template=https://github.com/BANGBOY/BOY-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/BANGBOY/BOY-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20BOY%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
